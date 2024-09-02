@@ -1,3 +1,4 @@
+<div style="background-image: url('https://w0.peakpx.com/wallpaper/141/817/HD-wallpaper-lightning-glow-black.jpg'); background-size: cover; background-position: center; padding: 20px;">
 <h1 align="center">
   <img src="https://img.freepik.com/premium-photo/cool-cat-coding-cyber-style-concept-cyberpunk-cat-coding-adventures-futuristic-feline-digital-kitty-glam-techsavvy-cat_918839-66073.jpg" alt="Omer's Profile Banner" width="600" height="300" />
 </h1>
